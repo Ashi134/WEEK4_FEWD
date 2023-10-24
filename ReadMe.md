@@ -1,2 +1,2 @@
-A complete e-commerce website with HTML, CSS and JAVASCRIPT is made. 
+A complete e-commerce website with HTML, CSS and JAVASCRIPT. 
 
